@@ -1,0 +1,15 @@
+[submodule "meta-bananapi-f3"]
+	path = meta-bananapi-f3
+	url = https://github.com/qamcom/Banana-Pi-F3-for-Yocto.git
+[submodule "poky"]
+	path = poky
+	url = https://git.yoctoproject.org/git/poky
+	branch = scarthgap
+[submodule "meta-openembedded"]
+	path = meta-openembedded
+	url = https://github.com/openembedded/meta-openembedded.git
+	branch = scarthgap
+[submodule "meta-riscv"]
+	path = meta-riscv
+	url = https://github.com/riscv/meta-riscv.git
+	branch = scarthgap
